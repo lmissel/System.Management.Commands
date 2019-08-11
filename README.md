@@ -5,7 +5,7 @@ Das PowerShell Module bietet einen umfassenden Zugriff auf Verwaltungsinformatio
 
 Ebenso wurde es von mir als Werkzeug für weitere PowerShell Module verwendet, um beispielweise Installationen von Namensräumen, Klassen und Instanzen abzubilden.
 
-**Hinweis:** Dieses Module wurde nicht weiterentwickelt. Ein ähnliches Module [PSWmiToolKit](https://github.com/Ioan-Popovici/PSWmiToolKit) von Ioan-Popovici ist sehr empfehlenswert.
+**Hinweis:** Dieses Module wird nicht weiterentwickelt. Ein ähnliches Module [PSWmiToolKit](https://github.com/Ioan-Popovici/PSWmiToolKit) von Ioan-Popovici ist sehr empfehlenswert.
 
 ## Voraussetzungen
 
@@ -34,4 +34,4 @@ PS C:\Users\lmissel> Add-PropertyData -ClassName LMI_Filter -Namespace lmissel -
 
 ```
 ## Hinweis
-Dieses PowerShell Module wurde nicht mehr weiterentwickelt.
+Dieses PowerShell Module wird nicht mehr weiterentwickelt.
