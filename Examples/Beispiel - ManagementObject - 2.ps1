@@ -1,0 +1,1 @@
+﻿[System.Management.ManagementObject] $o = [System.Management.ManagementObject]::new("Win32_Service.Name='AppMgmt'");
